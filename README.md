@@ -9,3 +9,8 @@ devem ser apresentadas quais as linhas do arquivo utilizam a palavra."
 
 Professor Denis ED2.
 
+(LIVE DEMO)
+Busca termos em três livros e adiciona cada termo na árvore.
+
+(Teste Online replit.com) https://replit.com/@pedrowarlock/TrabED2-ArvoreAVL-Binaria#src/menu.cpp
+
